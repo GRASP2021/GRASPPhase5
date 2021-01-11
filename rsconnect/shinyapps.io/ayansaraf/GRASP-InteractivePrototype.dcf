@@ -6,7 +6,7 @@ server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3221998
 bundleId: 3878202
-url: https://ayansarf.shinyapps.io/GRASP-InteractivePrototype/
+url: https://ayansaraf.shinyapps.io/GRASP-InteractivePrototype/
 when: 1605746442.84058
 asMultiple: FALSE
 asStatic: FALSE
